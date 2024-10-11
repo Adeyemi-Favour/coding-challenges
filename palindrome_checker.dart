@@ -1,5 +1,5 @@
 void main() {
-  palindrome_checker('Eva, can I see bees in a cave');
+  palindrome_checker('A man, a plan, a canal: Panama');
 }
 
 palindrome_checker(String sequence) {
