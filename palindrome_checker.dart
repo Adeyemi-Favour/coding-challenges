@@ -14,8 +14,8 @@ palindrome_checker(String sequence) {
   print(new_words);
 
   if (new_words.join() == new_words.reversed.join()) {
-    print('true');
+    print('True');
   } else {
-    print('false');
+    print('False');
   }
 }
